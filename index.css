@@ -1,0 +1,233 @@
+.sz{
+    font-family:Arial;
+}
+.hvr1:hover
+{
+color:orangered!important;
+}
+
+.hover1{
+    position: absolute;
+    bottom: 5%;
+    left:45%;
+    
+} 
+.fs1{
+    color:orange;
+    font-size:60px;
+    font-weight: bold;
+    left:10%;
+}
+.fs2{
+    color:wheat;
+    width: 80%;
+    font-size: 20px;
+    font-weight:bold;
+}
+ .bg1
+{
+    background:rgba(0,0,0,0.5) url(img/beautiful-bride-white-background.jpg);
+    width: 100%;
+    height:500px;
+    background-size: cover;
+    position: relative;
+    background-blend-mode: darken;
+}
+.bg2{
+    background:rgba(0,0,0,0.5)url(img/beautiful-ballet.jpg) ;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    position: relative;
+    background-blend-mode: darken;
+}
+.bg3{
+    background:rgba(0,0,0,0.5)url(img/design.jpg) ;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    position: relative;
+    background-blend-mode: darken;
+}
+.buttonhover:hover{
+    color: white;
+    font-weight: bold;
+}
+.psize{
+    font-size: 45px;
+    font-weight: bold;
+    color: gray;
+}
+.img1{ 
+    background:rgba(0,0,0,0.2) url(img/1477315683052_RIB_828_0.jpg);
+    width: 50%;
+    height: 800pxs;
+    background-size: cover;
+    position: relative;
+    border-radius: 10px;
+    background-blend-mode: darken;
+    
+}
+.img2{
+    background:rgba(0,0,0,0.2) url(img/beautiful-bride-with-white-dress.jpg);
+    width: 100%;
+    height: 320px;
+    border-radius: 10px;
+    background-size: cover;
+    position: relative;
+    background-blend-mode: darken;
+}   
+.img3{
+    background:rgba(0,0,0,0.2) url(img/young-beautiful-woman-dress-up-local-culture-southern-region-with-beauty-posture.jpg);
+    width: 100%;
+    height: 320px;
+    border-radius: 10px;
+    background-size: cover;
+    position: relative;
+    background-blend-mode: darken;   
+}
+.p1{
+font-size: 18px;
+}
+.p2{
+    font-size: 49px;
+    font-weight: bold;
+}
+.ahover:hover{
+    color:black!important;
+    transition:all 0.4s;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.product-item{
+   
+    position: relative;
+}
+.productimg2{
+    background-image: url(img/selling-products2.jpg);
+    width: 100%;
+    height: 320px;
+    background-size: cover;
+    position: relative;
+}
+.productimg3{
+    background-image: url(img/selling-products3.jpg);
+    width: 100%;
+    height: 320px;
+    background-size: cover;
+    position: relative;
+}
+.productimg4{
+    background-image: url(img/selling-products4.jpg);
+    width: 100%;
+    height: 320px;
+    background-size: cover;
+    position:relative;
+}
+.product-item:hover .carthover{
+    bottom: 250px;
+    opacity: 1;
+   
+}
+.carthover{
+    /* background:white; */
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 300px;
+    z-index: 9;
+    transition: 0.5s ease-out;
+    padding: 20px 30px;
+    opacity: 0;
+}
+.navhover:hover{
+color: black!important;
+}
+.halfsleeve{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.halfsleeve1{
+    font-size: 25px;
+}
+.navhover1:hover{
+    color: blue!important;
+    transition:all 0.4s;
+    /* letter-spacing: 1px; */
+    transform: scale(0.9);
+}
+.navhover0:hover{
+    color: blue!important;
+    transition:all 0.2s;
+    letter-spacing: 1px;
+    /* transform: scale(0.9); */
+}
+
+.paragraph
+{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.para1{
+    font-size: 30px;
+}
+
+.widebg1{
+    background: rgba(0,0,0,0.3)url(img/widebg.jpg);
+    height:400px;
+    width: 100%;
+    background-size:cover;
+    background-blend-mode:darken;
+    border-radius: 30px;
+    /* position:absolute; */
+}
+.contect1{
+color: white;
+width: 90%;
+margin-top: 110px;
+font-size: 50px;
+}
+.contect2{
+    color: white;
+    width: 90%;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.ddd{
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.card{
+    width: 50%;
+}
+/* .carousel1 
+{
+    background: rgba(0,0,0,0.5) url(img/beautiful-bride-white-background.jpg);
+    width: 100%;
+    background-size: cover;
+    background-blend-mode: darken;
+}*/
+/* @media screen and  (max-device-width: 768px) 
+{
+    .colemp {
+      display: none !important;
+    }
+  }
+@media screen and  (max-device-width: 768px)
+{
+    .fs1 {
+     font-size: 30px;
+    }
+    .fs2{
+        display: none;
+    }
+  }*/

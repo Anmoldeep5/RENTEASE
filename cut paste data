@@ -1,0 +1,204 @@
+ <!--product1-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products1.jpg" class="img-fluid" />
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Half Sleeve T-Shirt</a>
+            <p class="halfsleeve1 ms-4">$40.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product1-->
+        
+        <!--product2-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products2.jpg" class="img-fluid"></img>
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Stylish Grey T-Shirt</a>
+            <p class="halfsleeve1 ms-4">$35.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product2-->
+
+        <!--/product3-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products3.jpg" class="img-fluid"></img>
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Silk White Shirt</a>
+            <p class="halfsleeve1 ms-4">$35.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product3-->
+
+        <!--product4-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products4.jpg" class="img-fluid"></img>
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Grunge Hoodie</a>
+            <p class="halfsleeve1 ms-4">$35.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product4-->
+      </div>
+      <!--/product cards1-->
+
+      <!--product cards2-->
+      <div class="row my-5">
+        <!--product5-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products5.jpg" class="img-fluid" />
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Full Sleeve Jeans Jacket</a>
+            <p class="halfsleeve1 ms-4">$40.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product5-->
+        
+        <!--product6-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products6.jpg" class="img-fluid"></img>
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Grey Check Coat
+            </a>
+            <p class="halfsleeve1 ms-4">$30.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product6-->
+
+        <!--product7-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products7.jpg" class="img-fluid"></img>
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Long Sleeve T-Shirt</a>
+            <p class="halfsleeve1 ms-4">$40.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product7-->
+
+        <!--product8-->
+        <div class="product-item col-sm-12 col-md-6 col-lg-3">
+          <div class="image-holder">
+            <img src="img/selling-products8.jpg" class="img-fluid"></img>
+          </div>
+          <div class="mt-3">
+            <a href="#" class="ms-4 halfsleeve">Half Sleeve T-Shirt</a>
+            <p class="halfsleeve1 ms-4">$35.00</p>
+          </div>
+          <div class="carthover">
+            <a href="#" class="bg-light form-control p-3 text-decoration-none"
+              >Add to cart</a>
+          </div>
+        </div>
+        <!--/product8-->
+      </div>
+      <!--/product cards2-->
+
+
+            <!--product cards3-->
+            <div class="row my-5 pb-5">
+              <!--product9-->
+              <div class="product-item col-sm-12 col-md-6 col-lg-3">
+                <div class="image-holder">
+                  <img src="img/selling-products13.jpg" class="img-fluid" />
+                </div>
+                <div class="mt-3">
+                  <a href="#" class="ms-4 halfsleeve">Orange White Nike</a>
+                  <p class="halfsleeve1 ms-4">$55.00</p>
+                </div>
+                <div class="carthover">
+                  <a href="#" class="bg-light form-control p-3 text-decoration-none"
+                    >Add to cart</a>
+                </div>
+              </div>
+              <!--/product9-->
+              
+              <!--product10-->
+              <div class="product-item col-sm-12 col-md-6 col-lg-3">
+                <div class="image-holder">
+                  <img src="img/selling-products14.jpg" class="img-fluid"></img>
+                </div>
+                <div class="mt-3">
+                  <a href="#" class="ms-4 halfsleeve">Running Shoe</a>
+                  <p class="halfsleeve1 ms-4">$65.00</p>
+                </div>
+                <div class="carthover">
+                  <a href="#" class="bg-light form-control p-3 text-decoration-none"
+                    >Add to cart</a>
+                </div>
+              </div>
+              <!--/product10-->
+      
+              <!--product11-->
+              <div class="product-item col-sm-12 col-md-6 col-lg-3">
+                <div class="image-holder">
+                  <img src="img/selling-products15.jpg" class="img-fluid"></img>
+                </div>
+                <div class="mt-3">
+                  <a href="#" class="ms-4 halfsleeve">Tennis Shoe</a>
+                  <p class="halfsleeve1 ms-4">$80.00</p>
+                </div>
+                <div class="carthover">
+                  <a href="#" class="bg-light form-control p-3 text-decoration-none"
+                    >Add to cart</a>
+                </div>
+              </div>
+              <!--/product11-->
+      
+              <!--product12-->
+              <div class="product-item col-sm-12 col-md-6 col-lg-3">
+                <div class="image-holder">
+                  <img src="img/selling-products16.jpg" class="img-fluid"></img>
+                </div>
+                <div class="mt-3">
+                  <a href="#" class="ms-4 halfsleeve">Nike Brand Shoe
+                  </a>
+                  <p class="halfsleeve1 ms-4">$65.00</p>
+                </div>
+                <div class="carthover">
+                  <a href="#" class="bg-light form-control p-3 text-decoration-none"
+                    >Add to cart</a>
+                </div>
+              </div>-->
+              <!--/product12-->
+            </div>
+            <!--/product cards3-->
